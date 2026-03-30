@@ -1,7 +1,7 @@
 # Advanced Geophysical Methods in Natural Resource Investigation (ANRI)
 
 <p align="center">
-  <img src="Assets/imagen01.JPG" alt="ANRI - Advanced Geophysical Methods in Natural Resource Investigation" width="800"/>
+  <img src="Assets/imagen01.jpg" alt="ANRI - Advanced Geophysical Methods in Natural Resource Investigation" width="800"/>
 </p>
 
 **Module:** 14506
