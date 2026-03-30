@@ -10,7 +10,11 @@
 
 **Language:** English
 
-**Credits:** 6 ECTS | **Duration:** 1 semester | **Max participants:** 15
+**Credits:** 6 ECTS
+
+**Duration:** 1 semester
+
+**Max participants:** 15
 
 ---
 
