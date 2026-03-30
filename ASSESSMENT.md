@@ -1,7 +1,7 @@
 # Assessment — Advanced Geophysical Methods in Natural Resource Investigation (ANRI)
 
 **Module:** 14506 | **Credits:** 6 ECTS
-**Responsible:** Dr. Pablo Bordón - Prof. Dr. rer. nat. Rainer Herd
+**Responsible:** Dr. Pablo Bordón
 
 ---
 

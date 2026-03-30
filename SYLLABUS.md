@@ -2,7 +2,7 @@
 
 **Module:** 14506 | **Credits:** 6 ECTS | **Language:** English
 **Programme:** Master Environmental and Resource Management (PO 2021)
-**Responsible:** Dr. Pablo Bordón - Prof. Dr. rer. nat. Rainer Herd
+**Responsible:** Dr. Pablo Bordón 
 
 ---
 

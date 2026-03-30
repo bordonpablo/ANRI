@@ -3,7 +3,7 @@
 **Module:** 14506
 **Programme:** Master Environmental and Resource Management (PO 2021)
 **Department:** Faculty 2 — Environment and Natural Sciences, BTU Cottbus-Senftenberg
-**Responsible:** Prof. Dr. rer. nat. Rainer Herd
+**Responsible:** Dr. Pablo Bordon
 **Language:** English
 **Credits:** 6 ECTS | **Duration:** 1 semester | **Max participants:** 15
 
