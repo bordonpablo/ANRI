@@ -1,7 +1,7 @@
 # Assessment — Advanced Geophysical Methods in Natural Resource Investigation (ANRI)
 
 **Module:** 14506 | **Credits:** 6 ECTS
-**Responsible:** Prof. Dr. rer. nat. Rainer Herd
+**Responsible:** Dr. Pablo Bordón - Prof. Dr. rer. nat. Rainer Herd
 
 ---
 
@@ -56,8 +56,4 @@ Grading follows the standard BTU Cottbus-Senftenberg scheme.
 
 Regular attendance is expected. Students missing more than 20% of sessions without justified reason may be excluded from the final exam. Field excursions are mandatory.
 
----
 
-## Late Submission Policy
-
-Late submissions without prior approval will incur a grade penalty of 0.3 per calendar day. Extensions must be requested at least 48 hours before the deadline.

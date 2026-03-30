@@ -3,7 +3,7 @@
 **Status:** Active
 **Semester:** Summer Semester 2026
 **Course:** Advanced Geophysical Methods in Natural Resource Investigation (Module 14506)
-**Instructor:** Prof. Dr. rer. nat. Rainer Herd
+**Instructor:**  Dr. Pablo Bordón -  Prof. Dr. rer. nat. Rainer Herd
 
 ---
 
