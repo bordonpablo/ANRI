@@ -1,9 +1,13 @@
 # Syllabus — Advanced Geophysical Methods in Natural Resource Investigation (ANRI)
 
 **Module:** 14506
+
 **Credits:** 6 ECTS
+
 **Language:** English
+
 **Programme:** Master Environmental and Resource Management (PO 2021)
+
 **Responsible:** Dr. Pablo Bordón
 
 ---
