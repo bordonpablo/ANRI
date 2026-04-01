@@ -1,8 +1,10 @@
 # Syllabus — Advanced Geophysical Methods in Natural Resource Investigation (ANRI)
 
-**Module:** 14506 | **Credits:** 6 ECTS | **Language:** English
+**Module:** 14506
+**Credits:** 6 ECTS
+**Language:** English
 **Programme:** Master Environmental and Resource Management (PO 2021)
-**Responsible:** Dr. Pablo Bordón 
+**Responsible:** Dr. Pablo Bordón
 
 ---
 
@@ -72,8 +74,8 @@ Principles of airborne survey platforms (fixed-wing, helicopter, UAV). Aeromagne
 
 ## Software Used
 
+- **General processing:** Python (NumPy, ObsPy, pyGIMLi)
 - **GPR:** ReflexW / RadExPro
 - **ERT:** RES2DINV / ERTLab
 - **GIS:** QGIS
 - **Magnetics:** Oasis Montaj (academic licence) / Geosoft
-- **General processing:** Python (NumPy, ObsPy, pyGIMLi)

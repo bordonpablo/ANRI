@@ -37,4 +37,4 @@
 
 ## Attendance Policy
 
-Regular attendance is expected. Students missing more than 20% of sessions without justified reason may be excluded from the final exam. Field excursions are mandatory.
+Regular attendance is expected. Students cannot miss more than 20% of sessions. Field excursions are mandatory.
