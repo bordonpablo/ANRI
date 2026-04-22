@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"Unit_02_Ground_Penetrating_Radar\" \"Unit_02_GPR_TEMP\")",
+      "Bash(mv \"Unit_03_GIS_Fundamentals\" \"Unit_02_GIS_Fundamentals\")",
+      "Bash(mv \"Unit_02_GPR_TEMP\" \"Unit_03_Ground_Penetrating_Radar\")"
+    ]
+  }
+}

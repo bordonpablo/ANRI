@@ -46,8 +46,8 @@ ANRI/
 | # | Topic |
 |---|-------|
 | 01 | [Introduction to Applied Geophysics](Units/Unit_01_Introduction_to_Applied_Geophysics/README.md) |
-| 02 | [Ground Penetrating Radar](Units/Unit_02_Ground_Penetrating_Radar/README.md) |
-| 03 | [GIS Fundamentals](Units/Unit_03_GIS_Fundamentals/README.md) |
+| 02 | [GIS Fundamentals](Units/Unit_02_GIS_Fundamentals/README.md) |
+| 03 | [Ground Penetrating Radar](Units/Unit_03_Ground_Penetrating_Radar/README.md) |
 | 04 | [Magnetometry](Units/Unit_04_Magnetometry/README.md) |
 | 05 | [Electrical Resistivity Tomography](Units/Unit_05_Electrical_Resistivity_Tomography/README.md) |
 | 06 | [Airborne Magnetics and Radiometrics](Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) |

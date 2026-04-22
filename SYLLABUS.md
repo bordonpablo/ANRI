@@ -47,11 +47,11 @@ Upon successful completion of this course, students will be able to:
 ### Unit 01 — Introduction to Applied Geophysics
 Overview of the course scope and objectives. Classification of geophysical prospection methods. Physical properties of earth materials. Overview of applications in natural resource investigation. Survey design principles.
 
-### Unit 02 — Ground Penetrating Radar (GPR)
-Electromagnetic wave propagation in the subsurface. Antenna frequency selection. Field acquisition strategies. Reflection profiling and common-midpoint surveys. Data processing: zero-time correction, filtering, migration. Interpretation of radargrams. Applications in archaeology, engineering, and environmental studies.
-
-### Unit 03 — GIS Fundamentals
+### Unit 02 — GIS Fundamentals
 Coordinate reference systems and map projections. Vector and raster data models. Spatial data management. Integration of geophysical survey data in GIS. Basic geostatistics and interpolation. Visualization and map production.
+
+### Unit 03 — Ground Penetrating Radar (GPR)
+Electromagnetic wave propagation in the subsurface. Antenna frequency selection. Field acquisition strategies. Reflection profiling and common-midpoint surveys. Data processing: zero-time correction, filtering, migration. Interpretation of radargrams. Applications in archaeology, engineering, and environmental studies.
 
 ### Unit 04 — Magnetometry
 Earth's magnetic field and its anomalies. Instrumentation: fluxgate, proton precession, and cesium vapour magnetometers. Field acquisition: profiles and grids. Data corrections (diurnal variation, IGRF). Processing and filtering techniques. Interpretation of magnetic anomalies. Applications in mineral exploration and environmental investigations.
