@@ -11,13 +11,13 @@
 |---------|-------|-------|------|-------|
 | 01 | 16/04 | Presentation | [Unit 01](../../Units/Unit_01_Introduction_to_Applied_Geophysics/README.md) | |
 | 02 | 23/04 | Geophysical prospecting methods and GIS | [Unit 01](../../Units/Unit_01_Introduction_to_Applied_Geophysics/README.md) / [Unit 02](../../Units/Unit_02_GIS_Fundamentals/README.md) | |
-| 03 | 30/04 | GPR | [Unit 03](../../Units/Unit_03_Ground_Penetrating_Radar/README.md) | |
+| 03 | 30/04 | GPR | [Unit 03](../../Units/Unit_03_Ground_Penetrating_Radar/README.md) | Mandatory assistance |
 | 04 | 07/05 | GPR | [Unit 03](../../Units/Unit_03_Ground_Penetrating_Radar/README.md) | |
 | 05 | 14/05 | — | — | **Holiday** |
 | 06 | 21/05 | — | — | No class |
 | 07 | 28/05 | Magnetometry | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) | |
-| 08 | 04/06 | Magnetometry & GIS | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) / [Unit 03](../../Units/Unit_02_GIS_Fundamentals/README.md) | |
-| 09 | 11/06 | Magnetometry & GIS | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) / [Unit 03](../../Units/Unit_02_GIS_Fundamentals/README.md) | |
+| 08 | 04/06 | Magnetometry | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) / [Unit 03](../../Units/Unit_02_GIS_Fundamentals/README.md) | |
+| 09 | 11/06 | Magnetometry | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) / [Unit 03](../../Units/Unit_02_GIS_Fundamentals/README.md) | |
 | 10 | 18/06 | Magnetometry & ERT 1 | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) / [Unit 05](../../Units/Unit_05_Electrical_Resistivity_Tomography/README.md) | |
 | 11 | 25/06 | ERT 2 | [Unit 05](../../Units/Unit_05_Electrical_Resistivity_Tomography/README.md) | |
 | 12 | 02/07 | ERT 3 | [Unit 05](../../Units/Unit_05_Electrical_Resistivity_Tomography/README.md) | |
