@@ -20,10 +20,10 @@
 | 09 | 11/06 | Magnetometry 1 | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
 | 10 | 18/06 | Magnetometry 2 | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
 | 11 | 25/06 | Magnetometry 3 / Intro Airborne prospecting | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) / [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
-| 12 | 02/07 | Airborne prospecting 1 | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
-| 13 | 09/07 | Airborne prospecting 2 | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
-| 14 | 16/07 | Airborne prospecting 3 | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
-| 15 | 23/07 | Airborne prospecting 4 | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
+| 12 | 02/07 | Airborne prospecting — Intro and Mongolia project | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
+| 13 | 09/07 | Airborne prospecting Field Trip | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | Mandatory assistance |
+| 14 | 16/07 | Airborne prospecting — Corrections and processing | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
+| 15 | 23/07 | Airborne prospecting — Corrections and processing | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
 | 16 | 30/07 | Review | — | |
 | 17 | 06/08 | **Exam** | — | Written exam |
 | 18 | 13/08 | — | — | |
