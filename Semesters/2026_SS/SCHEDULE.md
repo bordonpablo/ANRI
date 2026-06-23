@@ -14,11 +14,11 @@
 | 03 | 30/04 | GPR fieldwork and GIS | [Unit 03](../../Units/Unit_03_Ground_Penetrating_Radar/README.md) | Mandatory assistance |
 | 04 | 07/05 | GPR theory and processing | [Unit 03](../../Units/Unit_03_Ground_Penetrating_Radar/README.md) | |
 | 05 | 14/05 | — | — | **Holiday** |
-| 06 | 21/05 | — | — | No class |
+| 06 | 21/05 | — | — | Fieldwork NRI |
 | 07 | 28/05 | Electromagnetics and ERT  | [Unit 05](../../Units/Unit_05_Electrical_Resistivity_Tomography/README.md) | |
 | 08 | 04/06 | Electromagnetics and ERT | [Unit 05](../../Units/Unit_05_Electrical_Resistivity_Tomography/README.md) | |
-| 09 | 11/06 | Magnetometry 1 | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
-| 10 | 18/06 | Magnetometry 2 | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
+| 09 | 11/06 | Magnetometry — Theory and fieldwork | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
+| 10 | 18/06 | Magnetometry — Theory and fieldwork | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
 | 11 | 25/06 | Magnetometry 3 / Intro Airborne prospecting | [Unit 04](../../Units/Unit_04_Magnetometry/README.md) / [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
 | 12 | 02/07 | Airborne prospecting — Intro and Mongolia project | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
 | 13 | 09/07 | Airborne prospecting Field Trip | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | Mandatory assistance |
