@@ -10,22 +10,17 @@ This unit introduces the field of applied geophysics in the context of natural r
 
 By the end of this unit, students will be able to:
 
-- Define applied geophysics and distinguish it from pure and exploration geophysics
 - Describe the main categories of geophysical methods and the physical properties they measure
 - Match geophysical methods to appropriate investigation targets
-- Explain basic survey design concepts (resolution, depth of investigation, ambiguity)
-- Identify the role of geophysics within multidisciplinary resource investigation workflows
+- Situate geophysics within multidisciplinary resource investigation workflows
 
 ---
 
 ## Key Concepts
 
-- Definition and scope of applied geophysics
-- Physical properties of earth materials (density, magnetic susceptibility, electrical resistivity, seismic velocity, dielectric permittivity, radioactivity)
-- Classification of methods: active vs. passive, surface vs. borehole vs. airborne
-- Overview of methods covered in the course: GPR, GIS integration, magnetometry, ERT, airborne magnetics and radiometrics
-- Survey design fundamentals: spatial resolution, depth of investigation, signal-to-noise ratio
-- Data interpretation approaches: qualitative vs. quantitative, forward modelling vs. inversion
+- Physical properties of earth materials and classification of geophysical methods
+- Overview of methods covered in the course (GPR, GIS, magnetometry, ERT, airborne)
+- Survey design fundamentals and data interpretation approaches
 
 ---
 

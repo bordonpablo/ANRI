@@ -10,28 +10,18 @@ This unit covers airborne geophysical survey methods with a focus on magnetics a
 
 By the end of this unit, students will be able to:
 
-- Describe the main airborne survey platforms (fixed-wing, helicopter, UAV) and their trade-offs
-- Explain the operating principles of airborne magnetometers and gamma-ray spectrometers
-- Outline the key steps in airborne survey design (line spacing, terrain clearance, flight direction)
-- Describe airborne data processing workflows: levelling, microlevelling, IGRF removal, decorrugation
-- Explain the physical basis of gamma-ray spectrometry and the meaning of K, U, and Th maps
-- Interpret aeromagnetic and radiometric maps in terms of geology, structure, and mineralization
-- Critically evaluate an airborne dataset and identify quality issues
+- Describe airborne survey platforms and sensor systems for magnetics and radiometrics
+- Outline key steps in survey design and standard data processing workflows
+- Interpret aeromagnetic and radiometric maps in geological and exploration contexts
 
 ---
 
 ## Key Concepts
 
-- Airborne survey platforms: fixed-wing, helicopter, UAV; towed vs. stinger-mounted sensors
-- Aeromagnetics: total field and gradiometer systems; compensation and noise sources
-- Survey design: line azimuth, line spacing, tie lines, terrain clearance, sample rate
-- Data processing: diurnal correction, IGRF removal, levelling, microlevelling, gridding
-- Enhancement filters: RTP, analytic signal, tilt derivative, horizontal gradient, Euler deconvolution
-- Gamma-ray spectrometry: radioactive decay series, NaI(Tl) detectors, window channels (K, U, Th, total count)
-- Radiometric corrections: aircraft background, cosmic, Compton stripping
-- Geological interpretation: lithological mapping, alteration zones, structural lineaments
-- Applications: greenfields mineral exploration, geological mapping, environmental radiometric surveys
-- UAV-borne geophysics: current capabilities and limitations
+- Airborne survey platforms and sensor systems
+- Survey design and data processing workflows
+- Gamma-ray spectrometry and radiometric maps (K, U, Th)
+- Geological interpretation and mineral exploration applications
 
 ---
 

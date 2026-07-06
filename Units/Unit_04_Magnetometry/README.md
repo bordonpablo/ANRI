@@ -10,28 +10,18 @@ This unit covers the theory and practice of ground-based magnetic surveys for ne
 
 By the end of this unit, students will be able to:
 
-- Describe the components and temporal variations of the Earth's magnetic field
-- Explain the magnetic properties of rocks and minerals (susceptibility, remanence)
-- Select and operate appropriate magnetometer types for a given survey
-- Design a ground magnetic survey (profile spacing, base station strategy, tie lines)
-- Apply standard data corrections: diurnal variation, IGRF removal, levelling
-- Process and filter total field anomaly grids (reduction to pole, upward continuation, derivatives)
-- Interpret magnetic anomalies qualitatively and quantitatively
-- Identify typical magnetic signatures of geological and anthropogenic targets
+- Describe the Earth's magnetic field and the magnetic properties of geological materials
+- Design and execute a ground magnetic survey and apply standard data corrections
+- Interpret magnetic anomaly data for geological and applied targets
 
 ---
 
 ## Key Concepts
 
-- Earth's magnetic field: components, IGRF, diurnal variation, magnetic storms
-- Magnetic susceptibility and remanent magnetization; Koenigsberger ratio
-- Instrumentation: fluxgate, proton precession, optically pumped (cesium vapour) magnetometers
-- Gradiometer configurations; base station and roving station setups
-- Field acquisition: profile and grid surveys, tie-line strategy, repeat measurements
-- Data corrections: diurnal drift removal, IGRF subtraction, terrain correction
-- Processing: gridding, upward/downward continuation, reduction to the pole (RTP), analytic signal, horizontal and vertical derivatives
-- Interpretation: qualitative anomaly mapping, depth estimation (half-width rules, Euler deconvolution)
-- Applications: mineral and structural mapping, UXO detection, archaeological prospection
+- Earth's magnetic field and rock magnetic properties
+- Instrumentation and field acquisition strategy
+- Data corrections and processing filters
+- Anomaly interpretation and applications
 
 ---
 

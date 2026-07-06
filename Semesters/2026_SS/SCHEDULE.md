@@ -25,6 +25,4 @@
 | 14 | 16/07 | Airborne prospecting — Corrections and processing | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
 | 15 | 23/07 | Airborne prospecting — Corrections and processing | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
 | 16 | 30/07 | Review | — | |
-| 17 | 06/08 | **Exam** | — | Written exam |
-| 18 | 13/08 | — | — | |
-| 19 | 20/08 | **Oral Presentation** | — | Individual, 15 min |
+| 17 | 20/08 | **Exam** | — | Written exam |

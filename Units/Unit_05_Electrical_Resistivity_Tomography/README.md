@@ -10,28 +10,18 @@ This unit covers the principles and application of Electrical Resistivity Tomogr
 
 By the end of this unit, students will be able to:
 
-- Explain the physical principles of DC resistivity and the concept of apparent resistivity
-- Describe common electrode configurations and their sensitivity distributions
+- Explain DC resistivity principles and the concept of apparent resistivity
 - Plan and execute a multi-electrode ERT survey
-- Process ERT data and run 2D inversion using standard software
-- Interpret inverted resistivity sections in geological and hydrogeological contexts
-- Assess data quality, identify artefacts, and evaluate inversion results critically
-- Discuss extensions to 3D ERT and time-lapse monitoring
+- Invert and interpret ERT data in geological and hydrogeological contexts
 
 ---
 
 ## Key Concepts
 
-- Electrical resistivity of earth materials: controls (lithology, porosity, fluid content, temperature)
-- Archie's Law; clay effect on resistivity
-- Electrode configurations: Wenner-α, Schlumberger, dipole-dipole, pole-dipole, pole-pole; sensitivity and depth of investigation
-- Apparent resistivity; geometric factor
-- Multi-electrode systems: roll-along acquisition, automated switching
-- Data quality: reciprocal error, outlier removal
-- 2D inversion: regularization, smoothness constraints, RMS convergence (RES2DINV / pyGIMLi)
-- Interpretation: correlation with borehole logs, geological cross-sections
-- Time-lapse ERT: monitoring applications (infiltration, contamination, permafrost)
-- Introduction to 3D ERT
+- Electrical resistivity of earth materials and controlling factors
+- Electrode configurations and multi-electrode acquisition
+- 2D inversion and data quality assessment
+- Interpretation and hydrogeological/environmental applications
 
 ---
 
