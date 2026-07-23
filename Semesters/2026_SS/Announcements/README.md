@@ -6,4 +6,6 @@ Announcements will be added here as individual Markdown files (e.g., `2026-04-07
 
 ---
 
-*No announcements yet.*
+| Date | Title |
+|------|-------|
+| 2026-07-23 | [Report Template](2026-07-23_Report_Template.md) |
