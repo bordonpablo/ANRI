@@ -26,3 +26,4 @@
 | 15 | 23/07 | Airborne prospecting — Corrections and processing | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
 | 16 | 30/07 | Review | — | |
 | 17 | 20/08 | **Exam** | — | Written exam |
+| 18 | 27/08 | **Report submission** | — | Report/informe deadline |
