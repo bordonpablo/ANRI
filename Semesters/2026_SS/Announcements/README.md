@@ -8,4 +8,5 @@ Announcements will be added here as individual Markdown files (e.g., `2026-04-07
 
 | Date | Title |
 |------|-------|
-| 2026-07-23 | [ANRI Final Report — instructions & template](2026-07-23_Report_Template.md) |
+| 2026-07-23 | [ANRI Final Report: instructions and template](2026-07-23_Report_Template.md) |
+| 2026-07-23 | [Exam Review Session](2026-07-23_Exam_Review_Session.md) |
