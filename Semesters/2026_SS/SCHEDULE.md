@@ -24,6 +24,5 @@
 | 13 | 09/07 | Airborne prospecting Field Trip | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | Mandatory assistance |
 | 14 | 16/07 | Airborne prospecting — Corrections and processing | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
 | 15 | 23/07 | Airborne prospecting — Corrections and processing | [Unit 06](../../Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | |
-| 16 | 30/07 | Review | — | |
-| 17 | 20/08 | **Exam** | — | Written exam |
-| 18 | 27/08 | **Report submission** | — | Report/informe deadline |
+| 16 | 20/08 | **Exam** | — | Written exam, 10:00, Room 505 |
+| 17 | 27/08 | **Report submission** | — | Report/informe deadline |
