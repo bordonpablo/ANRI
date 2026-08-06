@@ -15,6 +15,15 @@ Here we expect you to describe the inversion process, from the raw field measure
 **"Investigating an archaeological site with walls, cavities, and metallic objects: what could ERT, GPR, and Magnetometry each contribute? Would you use one method or a combination?"**
 This asks you to compare methods and justify a decision, like you would in a real field case.
 
+**"What factors determine the penetration depth of the radar signal?"**
+Think about signal frequency, ground conductivity/attenuation, and antenna choice, and how these trade off against resolution.
+
+**"Why is it necessary to apply diurnal correction to magnetic data? What causes these variations, and how are they corrected?"**
+Relates to the daily variation of the Earth's magnetic field and the use of a base station or reference readings to remove it.
+
+**"Classify the methods ERT, GPR, and Magnetometry as active or passive. Justify your classification in each case."**
+Think about whether each method injects its own energy into the ground (and measures the response) or simply records a naturally occurring field.
+
 ## Note
 
 All answers can be built from what we covered in class and the course material, nothing beyond that. If anything from today is still unclear, let me know before the exam.
