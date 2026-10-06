@@ -1,16 +1,5 @@
-# Semester SS 2026 — ANRI
+# Semester SS 2026 | ANRI
 
-**Status:** Active
-**Semester:** Summer Semester 2026
-**Course:** Advanced Geophysical Methods in Natural Resource Investigation (Module 14506)
-**Instructor:**  Dr. Pablo Bordón 
+This folder is a placeholder for the **Summer Semester 2026** offering of Advanced Geophysical Methods in Natural Resource Investigation (Module 14506).
 
----
-
-## Contents
-
-| File/Folder | Description |
-|-------------|-------------|
-| [SCHEDULE.md](SCHEDULE.md) | Weekly calendar with topics, readings, and deadlines |
-| [Announcements/](Announcements/README.md) | Course announcements and updates |
-| [Assignments/](Assignments/README.md) | Assignment descriptions, deadlines, and submission instructions |
+This was the **third time** the course was taught. Detailed materials from this semester are not archived in this repository.

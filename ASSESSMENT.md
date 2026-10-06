@@ -13,7 +13,7 @@
 | Field/Project Report | 30% | Group report, written |
 | Oral Presentation | 10% | Individual, 15 minutes |
 
-> Specific deadlines and submission details are published each semester under `Semesters/<semester>/Assignments/`.
+> Specific deadlines and submission details are published each semester in `Semesters/<semester>/SCHEDULE.md` and `Announcements/`.
 
 ---
 

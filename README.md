@@ -36,7 +36,7 @@ ANRI/
 ├── ASSESSMENT.md        ← Grading criteria and exam modalities
 │
 ├── Units/               ← Permanent theoretical content (all semesters)
-└── Semesters/           ← Semester-specific content (schedule, assignments, announcements)
+└── Semesters/           ← Semester-specific content (schedule, announcements)
 ```
 
 ---
@@ -61,4 +61,5 @@ ANRI/
 |----------|--------|
 | [SS 2025](Semesters/2025_SS/README.md) | Completed |
 | [WS 2025–2026](Semesters/2025-2026_WS/README.md) | Completed |
-| [SS 2026](Semesters/2026_SS/README.md) | **Active** |
+| [SS 2026](Semesters/2026_SS/README.md) | Completed |
+| [WS 2026–2027](Semesters/2026-2027_WS/README.md) | **Active** |
