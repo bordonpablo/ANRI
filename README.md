@@ -35,8 +35,7 @@ ANRI/
 ├── SYLLABUS.md          ← Learning outcomes and course contents
 ├── ASSESSMENT.md        ← Grading criteria and exam modalities
 │
-├── Units/               ← Permanent theoretical content (all semesters)
-└── Semesters/           ← Semester-specific content (schedule, announcements)
+└── Semesters/           ← Semester-specific content (units, schedule, announcements)
 ```
 
 ---
@@ -45,13 +44,13 @@ ANRI/
 
 | # | Topic |
 |---|-------|
-| 01 | [Introduction to Applied Geophysics](Units/Unit_01_Introduction_to_Applied_Geophysics/README.md) |
-| 02 | [GIS Fundamentals](Units/Unit_02_GIS_Fundamentals/README.md) |
-| 03 | [Ground Penetrating Radar](Units/Unit_03_Ground_Penetrating_Radar/README.md) |
-| 04 | [Magnetometry](Units/Unit_04_Magnetometry/README.md) |
-| 05 | [Electrical Resistivity Tomography](Units/Unit_05_Electrical_Resistivity_Tomography/README.md) |
-| 06 | [Airborne Magnetics and Radiometrics](Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) |
-| 07 | [Additional Topic](Units/Unit_07_Additional_Topic/README.md) |
+| 01 | [Introduction to Applied Geophysics](Semesters/2026-2027_WS/Units/Unit_01_Introduction_to_Applied_Geophysics/README.md) |
+| 02 | [GIS Fundamentals](Semesters/2026-2027_WS/Units/Unit_02_GIS_Fundamentals/README.md) |
+| 03 | [Ground Penetrating Radar](Semesters/2026-2027_WS/Units/Unit_03_Ground_Penetrating_Radar/README.md) |
+| 04 | [Magnetometry](Semesters/2026-2027_WS/Units/Unit_04_Magnetometry/README.md) |
+| 05 | [Electrical Resistivity Tomography](Semesters/2026-2027_WS/Units/Unit_05_Electrical_Resistivity_Tomography/README.md) |
+| 06 | [Airborne Magnetics and Radiometrics](Semesters/2026-2027_WS/Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) |
+| 07 | [Additional Topic](Semesters/2026-2027_WS/Units/Unit_07_Additional_Topic/README.md) |
 
 ---
 

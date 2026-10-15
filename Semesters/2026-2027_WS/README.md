@@ -13,3 +13,4 @@
 |-------------|-------------|
 | [SCHEDULE.md](SCHEDULE.md) | Weekly calendar with topics, readings, and deadlines |
 | [Announcements/](Announcements/README.md) | Course announcements and updates |
+| [Units/](Units/) | Unit folders for this semester (materials to be added) |
