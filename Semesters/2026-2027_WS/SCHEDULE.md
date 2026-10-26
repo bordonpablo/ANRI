@@ -11,8 +11,8 @@
 |---------|------|-------|------|-------|
 | 01 | 08/10 | Presentation | [Unit 01](Units/Unit_01_Introduction_to_Applied_Geophysics/README.md) | |
 | 02 | 15/10 | Geophysical prospecting methods and GIS | [Unit 01](Units/Unit_01_Introduction_to_Applied_Geophysics/README.md) / [Unit 02](Units/Unit_02_GIS_Fundamentals/README.md) | |
-| 03 | 22/10 | GPR fieldwork and GIS | [Unit 03](Units/Unit_03_Ground_Penetrating_Radar/README.md) | Mandatory assistance |
-| 04 | 29/10 | GPR theory and processing | [Unit 03](Units/Unit_03_Ground_Penetrating_Radar/README.md) | |
+| 03 | 22/10 | GPR theory and GIS | [Unit 03](Units/Unit_03_Ground_Penetrating_Radar/README.md) | |
+| 04 | 29/10 | GPR fieldwork, theory and processing | [Unit 03](Units/Unit_03_Ground_Penetrating_Radar/README.md) | Mandatory assistance |
 | 05 | 05/11 | Electromagnetics and ERT | [Unit 05](Units/Unit_05_Electrical_Resistivity_Tomography/README.md) | |
 | 06 | 12/11 | Electromagnetics and ERT | [Unit 05](Units/Unit_05_Electrical_Resistivity_Tomography/README.md) | |
 | 07 | 19/11 | Magnetometry: theory and fieldwork | [Unit 04](Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
