@@ -18,12 +18,12 @@
 | 07 | 19/11 | GPR theory and processing | [Unit 03](Units/Unit_03_Ground_Penetrating_Radar/README.md) |  |
 | 08 | 26/11 | Magnetometry: theory and fieldwork | [Unit 04](Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
 | 09 | 03/12 | Magnetometry: theory and fieldwork | [Unit 04](Units/Unit_04_Magnetometry/README.md) | Mandatory assistance |
-| 10 | 10/12 | Magnetometry: processing / Additional topic | [Unit 04](Units/Unit_04_Magnetometry/README.md) / [Unit 07](Units/Unit_07_Additional_Topic/README.md) |  |
+| 10 | 10/12 | Magnetometry: processing | [Unit 04](Units/Unit_04_Magnetometry/README.md) |  |
 | 11 | 17/12 | Electromagnetics and ERT: theory and modelling | [Unit 05](Units/Unit_05_Electrical_Resistivity_Tomography/README.md) |  |
 | - | 24/12, 31/12 | - | - | **Christmas break** |
 | 12 | 07/01 | Electromagnetics and ERT: theory and modelling | [Unit 05](Units/Unit_05_Electrical_Resistivity_Tomography/README.md) |  |
 | 13 | 14/01 | Airborne prospecting: Intro and Field Trip | [Unit 06](Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) | Mandatory assistance |
 | 14 | 21/01 | Airborne prospecting: Corrections and processing | [Unit 06](Units/Unit_06_Airborne_Magnetics_and_Radiometrics/README.md) |  |
-| 15 | 28/01 | Exam review |  |  |
+| 15 | 28/01 | Additional topic / Exam review | [Unit 07](Units/Unit_07_Additional_Topic/README.md) |  |
 | 16 | TBD | **Exam** |  | Written exam, date, time and room to be determined |
 | 17 | TBD | **Report submission** |  | Report deadline |
